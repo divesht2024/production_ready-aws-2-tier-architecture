@@ -1,0 +1,5 @@
+INSERT INTO employees (name, department, salary)
+VALUES
+('Divesh', 'Cloud', 50000),
+('Rahul', 'DevOps', 60000),
+('Sneha', 'Testing', 45000);
