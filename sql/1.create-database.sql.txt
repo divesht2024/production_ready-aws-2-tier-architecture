@@ -1,1 +1,1 @@
-create databse companydb;
+create database companydb;
